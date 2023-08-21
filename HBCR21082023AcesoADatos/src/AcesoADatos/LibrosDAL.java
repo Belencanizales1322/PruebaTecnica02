@@ -8,6 +8,6 @@ package AcesoADatos;
  *
  * @author Admin
  */
-public class Libros {
+public class LibrosDAL {
     
 }
